@@ -1,4 +1,7 @@
-### ✨ Hello,I'm Luciana Brito! Welcome to my profile GitHub! ✨
+### ✨ Hello, I'm Luciana Brito! Welcome to my profile GitHub! ✨
+
+
+### 🔗 My main links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-brito-60a307237/)
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/TeacherLucianaBrito)
@@ -20,6 +23,10 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 </div><br/>
 
+### 📧 Contact:
+Email: lucianabritodev@gmail.com
 
-"Technology moves the world". 
+
+
+"Technology moves the world".
 
