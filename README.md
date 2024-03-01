@@ -8,8 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://accounts.google.com/signin/v2/challenge/pwd?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ltmpl=default&ltmplcache=2&osid=1&passive=true&rm=false&scc=1&service=mail&ss=1&ifkv=AXo7B7VdGBoNP8Yu2KxA-9qnM4fTlDeZjvlmEkQx72v6jgDN3SRwlI1I74qBIdyukNa0KIO4n1rcJw&cid=1&navigationDirection=forward&TL=AGEVcSQpYViTM2soSnH94OKW377jpmRHHked5zP4EdSai2crt_cA6jSAkPjEybHh)
 
 
-![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&show_icons=true&theme=dracula)
-![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&theme=dracula&show_icons=true)
+![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&show_icons=true&theme=dracula) ![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=LucianaBritoDev&repo=github-readme-stats&cache_seconds=86400&theme=dracula)
 
 ### 👩‍💻 Technologies I use in my day:
 
