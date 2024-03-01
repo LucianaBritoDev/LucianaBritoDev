@@ -9,6 +9,7 @@
 
 
 ![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&show_icons=true&theme=dracula)
+![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&theme=dracula&show_icons=true)
 
 ### 👩‍💻 Technologies I use in my day:
 
