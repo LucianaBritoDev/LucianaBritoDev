@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://accounts.google.com/signin/v2/challenge/pwd?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ltmpl=default&ltmplcache=2&osid=1&passive=true&rm=false&scc=1&service=mail&ss=1&ifkv=AXo7B7VdGBoNP8Yu2KxA-9qnM4fTlDeZjvlmEkQx72v6jgDN3SRwlI1I74qBIdyukNa0KIO4n1rcJw&cid=1&navigationDirection=forward&TL=AGEVcSQpYViTM2soSnH94OKW377jpmRHHked5zP4EdSai2crt_cA6jSAkPjEybHh)
 
 
-![Luciana Brito GitHub Stats](https://camo.githubusercontent.com/6f63c6577b95b6de9358ce2f573e69c5dd36cc128198f6d9cbfc49666c04757f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d64726163756c61)
+![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&show_icons=true&theme=dracula)
 
 ### 👩‍💻 Technologies I use in my day:
 
