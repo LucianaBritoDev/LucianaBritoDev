@@ -3,7 +3,7 @@
 
 ### 📍 My goal:
 
-My main goal with this training is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software.
+My main goal is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software.
 
 
 ### 🔗 My main links:
