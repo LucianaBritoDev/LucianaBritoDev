@@ -8,9 +8,8 @@ My main goal is to achieve greater technical proficiency and strategic understan
 
 ### 🔗 My main links:
 
-[![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/TeacherLucianaBrito)
+[![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/_lucianabritto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-brito-60a307237/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://accounts.google.com/signin/v2/challenge/pwd?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ltmpl=default&ltmplcache=2&osid=1&passive=true&rm=false&scc=1&service=mail&ss=1&ifkv=AXo7B7VdGBoNP8Yu2KxA-9qnM4fTlDeZjvlmEkQx72v6jgDN3SRwlI1I74qBIdyukNa0KIO4n1rcJw&cid=1&navigationDirection=forward&TL=AGEVcSQpYViTM2soSnH94OKW377jpmRHHked5zP4EdSai2crt_cA6jSAkPjEybHh)
 
 
 ![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&show_icons=true&theme=dracula)
