@@ -37,14 +37,16 @@ My main goal is to achieve greater technical proficiency and strategic understan
 
 ### 👩‍💻 DevOps:
 <div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
 
 
-### 👩‍💻 Complementary training:
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-</div><br/>
+<!-- ### 👩‍💻 Complementary training:
+<!-- <div style="display: inline_block"><br/>
+<!-- <img align="center" alt="html5" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+<!-- </div><br/>
 
 
 ### 👩‍💻 Languages:
