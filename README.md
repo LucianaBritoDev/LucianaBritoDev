@@ -13,7 +13,7 @@ My main goal is to achieve greater technical proficiency and strategic understan
 
 
 ![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&show_icons=true&theme=dracula)
-![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={LucianaBritoDev}&theme=dracula).
+![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaBritoDev{LucianaBritoDev}&theme=dracula).
 
 
 ### 👩‍💻 Technologies I use in my day:
