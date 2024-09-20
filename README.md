@@ -13,7 +13,6 @@ My main goal is to achieve greater technical proficiency and strategic understan
 
 
 ![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&show_icons=true&theme=dracula)
-https://github-readme-stats.vercel.app/api/top-langs/?username={LucianaBritoDev}&theme=dracula
 
 
 ### 👩‍💻 Technologies I use in my day:
@@ -43,10 +42,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={LucianaBritoDev}
 </div><br/>
 
 
-### 👩‍💻 Complementary training:
+<!--### 👩‍💻 Complementary training:
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-</div><br/>
+</div><br/> -->
 
 
 ### 👩‍💻 Languages:
