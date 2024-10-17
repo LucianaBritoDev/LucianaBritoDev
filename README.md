@@ -3,7 +3,7 @@
 
 ### About me:
 
-👩🏻‍💻 Full-Stack Web Developer/ ⚛️Front-End React Developer;
+👩🏻‍💻 Full-Stack Web Developer/⚛️Front-End React Developer;
 👩🏻‍🎓 Systems Analysis and Development student;
 
 🎯 My main goal is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software;
