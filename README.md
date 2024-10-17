@@ -1,13 +1,14 @@
-### ✨ Hello, I'm Luciana Brito! Welcome to my profile GitHub! ✨
+### ✨ Hello! Welcome to my profile GitHub! 
+I am Luciana and I living in Brazil.✨
 
 
 ### About me:
 
-👩🏻‍💻 Full-Stack Web Developer;
-👩🏻‍💻⚛️Front-End React Developer;
-👩🏻‍🎓 Systems Analysis and Development student;
+👩🏻‍💻 I'm a Full-Stack Developer/ Front-End React Developer;
+👩🏻‍🎓 I'm currently studying Systems Analysis and Development;
+🌱 I'm currently learning algorithms in JavaScript, ReactJs. and NodeJs.
 
-🎯 My main goal is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software;
+🎯 My main goal is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software.
 
  
 ### 🔗 My main links:
