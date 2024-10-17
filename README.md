@@ -1,5 +1,5 @@
 ### ✨ Hello! Welcome to my profile GitHub! 
-I am Luciana and I living in Brazil.✨
+### I am Luciana Brito and I living in Brazil.✨
 
 
 ### About me:
