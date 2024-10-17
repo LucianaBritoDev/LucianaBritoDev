@@ -6,7 +6,7 @@ I am Luciana and I living in Brazil.✨
 
 👩🏻‍💻 I'm a Full-Stack Developer/ Front-End React Developer;
 👩🏻‍🎓 I'm currently studying Systems Analysis and Development;
-🌱 I'm currently learning more about SASS, Javascript, Typescript, React and Node. Js...
+🌱 I'm currently learning more about SASS, Javascript, Typescript, React and Node.Js.
 
 🎯 My main goal is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software.
 
