@@ -3,13 +3,12 @@
 
 ### About me:
 
+👩🏻‍💻 Full-Stack Web Developer/ ⚛️Front-End React Developer;
+👩🏻‍🎓 Systems Analysis and Development student;
+
 🎯 My main goal is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software;
 
  
-
-
-
-
 ### 🔗 My main links:
 
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/_lucianabritto)
@@ -20,7 +19,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaBritoDev&theme=dracula)
 
 
-### 👩‍💻 Technologies I use in my day:
+### 👩‍💻 My skills:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
@@ -54,13 +53,13 @@
 </div><br/> -->
 
 
-### 👩‍💻 Languages:
+### 👩‍💻 My languages:
 🇧🇷 Portuguese: Native;
 🇬🇧 English: B2;
 🇫🇷 Français: A2.
 
 
-### 📧 Contact:
+### 📧 Contact me:
 Email: lucianabritodev@gmail.com
 
 
