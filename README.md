@@ -21,7 +21,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaBritoDev&theme=dracula)
 
 
-### 👩‍💻 My skills:
+### 👩🏻‍💻 My skills:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
@@ -42,20 +42,20 @@
 </div><br/>
 
 
-### 👩‍💻 DevOps:
+### 👩🏻‍💻 DevOps:
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
 
 
-<!--### 👩‍💻 Complementary training:
+<!--### 👩🏻‍💻 Complementary training:
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 </div><br/> -->
 
 
-### 👩‍💻 My languages:
+### 👩🏻‍💻 My languages:
 🇧🇷 Portuguese: Native;
 🇬🇧 English: B2;
 🇫🇷 Français: A2.
