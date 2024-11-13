@@ -4,7 +4,7 @@
 
 ### About me:
 
-👩🏻‍💻 I am a Full-Stack Developer/ Front-End React Developer;
+👩🏻‍💻 I am a Full-Stack Developer/ Front-End Developer;
 👩🏻‍🎓 I am currently studying Systems Analysis and Development;
 🌱 I am currently learning more about SASS, Javascript, Typescript, React and Node.Js.
 
