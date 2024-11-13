@@ -57,8 +57,8 @@
 
 ### 👩🏻‍💻 My languages:
 🇧🇷 Portuguese: Native;
-🇬🇧 English: B2;
-🇫🇷 Français: A2.
+🇬🇧 English: B2.
+<!--🇫🇷 Français: A2.
 
 
 ### 📧 Contact me:
