@@ -4,8 +4,8 @@
 
 ### About me:
 
-👩🏻‍💻 I am a Full-Stack Developer/ Front-End Developer;
-👩🏻‍🎓 I am currently studying Systems Analysis and Development and I learning more about SASS, Javascript, Typescript, React and Node.Js.
+👩🏻‍💻 I am a Full-Stack Developer with a focus on Front-End Developer;
+👩🏻‍🎓 I am currently studying Systems Analysis and Development and I learning more about SASS, Javascript, Typescript, React and Node.Js
 
 🎯 My main goal is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software.
 
@@ -68,3 +68,13 @@ Email: lucianabritodev@gmail.com
 
 "Technology moves the world".
 
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
