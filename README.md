@@ -57,7 +57,7 @@
 ### 👩🏻‍💻 My languages:
 🇧🇷 Portuguese: Native;
 🇬🇧 English: B2.
-<!--🇫🇷 Français: A2.
+<!--🇫🇷 Français: A2. -->
 
 
 ### 📧 Contact me:
@@ -67,3 +67,14 @@ Email: lucianabritodev@gmail.com
 
 
 "Technology moves the world".
+
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
