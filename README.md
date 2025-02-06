@@ -3,17 +3,12 @@
 
 
 ### About me:
-
 • 👩🏻‍💻 I am a Full-Stack Developer with a focus on Front-End Developer.
-
 • 👩🏻‍🎓 I am currently studying Systems Analysis and Development and I learning more about SASS, JavaScript, Typescript, Node.Js, React and Python.
-
-
 🎯 My main goal is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software.
 
  
 ### 🔗 My links:
-
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/_lucianabritto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-brito-60a307237/)
 
@@ -23,7 +18,6 @@
 
 
 ### 👩🏻‍💻 My skills:
-
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,8 +34,8 @@
 <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
 <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> -->
-
 </div><br/>
+
 
 ### 👩🏻‍💻 DevOps:
 <div style="display: inline_block"><br/>
@@ -49,9 +43,11 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
 
+
 ### ☁️ Cloud:
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
 
 ### 📊 Development Tools:
 <div style="display: inline_block"><br/>
@@ -60,16 +56,15 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
+
 <!--### 👩🏻‍💻 Complementary training:
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 </div><br/> -->
-
 ### 👩🏻‍💻 My languages:
 🇧🇷 Portuguese: Native;
 🇬🇧 English: B2.
 <!--🇫🇷 Français: A2. -->
-
 
 
 ### 📧 Contact me:
