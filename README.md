@@ -5,7 +5,7 @@
 ### About me:
 
 👩🏻‍💻 I am a Full-Stack Developer with a focus on Front-End Developer;
-👩🏻‍🎓 I am currently studying Systems Analysis and Development and I learning more about SASS, Javascript, Typescript, Node.Js, React and Python.
+👩🏻‍🎓 I am currently studying Systems Analysis and Development and I learning more about SASS, JavaScript, Typescript, Node.Js, React and Python.
 
 🎯 My main goal is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software.
 
@@ -33,6 +33,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />  
 <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
