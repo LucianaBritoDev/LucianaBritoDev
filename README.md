@@ -3,7 +3,7 @@
 
 
 ### About me:
-• 👩🏻‍💻 I am a Full-Stack Developer with a focus on Front-End Developer.
+• 👩🏻‍💻 I am a Full-Stack Developer.
 
 • 👩🏻‍🎓 I am currently studying Systems Analysis and Development and I learning more about SASS, JavaScript, Typescript, Node.Js, React and Python.
 
