@@ -4,7 +4,9 @@
 
 ### About me:
 • 👩🏻‍💻 I am a Full-Stack Developer with a focus on Front-End Developer.
+
 • 👩🏻‍🎓 I am currently studying Systems Analysis and Development and I learning more about SASS, JavaScript, Typescript, Node.Js, React and Python.
+
 🎯 My main goal is to achieve greater technical proficiency and strategic understanding for the creation of interactive and efficient platforms and/or software.
 
  
