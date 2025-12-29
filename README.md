@@ -16,7 +16,7 @@
 
 
 ![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&show_icons=true&theme=dracula)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaBritoDev&theme=dracula)
+<!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaBritoDev&theme=dracula) -->
 
 
 ### 👩🏻‍💻 Technologies that I am aware of:
