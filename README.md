@@ -15,8 +15,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-brito-60a307237/)
 
 
-![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&show_icons=true&theme=dracula)
-<!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaBritoDev&theme=dracula) -->
+<!--![Luciana Brito GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaBritoDev&show_icons=true&theme=dracula)
+[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaBritoDev&theme=dracula) -->
 
 
 ### 👩🏻‍💻 Technologies that I am aware of:
