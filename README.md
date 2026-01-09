@@ -3,7 +3,7 @@
 
 
 ### About me:
-• 👩🏻‍💻 I am a Full-Stack Web Developer with a focus on Front-End.
+• 👩🏻‍💻 I am a Full-Stack Web Developer with a focus on Front-End. Scrum Master in training (Scrum and Kanban).
 
 • 👩🏻‍🎓 I am currently studying Systems Analysis and Development and I learning more about Python, MySQL, SQLite and AWS Cloud.
 
