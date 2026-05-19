@@ -37,6 +37,8 @@ _"A tecnologia move o mundo."_ 🌍
 
 
 
+
+
 🇬🇧
 ### ✨ Hello! Welcome to my profile GitHub! 
 ### I am Luciana Brito and I living in Brazil. ✨
