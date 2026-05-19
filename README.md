@@ -2,8 +2,8 @@
 
 
 
-### ✨ Olá! Bem-vindo(a) ao meu perfil no GitHub! 
-### Sou Luciana Brito e moro no Brasil. ✨
+<!--### ✨ Olá! Bem-vindo(a) ao meu perfil no GitHub! 
+### Sou Luciana Brito e moro no Brasil. ✨-->
 
 ### Sobre mim:
 • 👩🏻‍💻 Sou Desenvolvedora Web Full-Stack com foco em Front-End.  
