@@ -1,4 +1,5 @@
-![Luciana Brito](https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=100&section=header&text=Luciana%20Brito%20Dev&fontSize=30&fontColor=fff)
+![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito%20Dev&fontSize=40&fontColor=fff&animation=twinkling)
+
 
 
 
