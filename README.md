@@ -1,7 +1,4 @@
-![Luciana Brito Dev](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito%20&fontSize=40&fontColor=fff&animation=twinkling&desDesenvolvedora%20Full%20Stack&descAlignY=70&descColor=f5f5dc)
-
-
-
+![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Full-Stack&descAlignY=70&descColor=f5f5dc)
 
 
 
