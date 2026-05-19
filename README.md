@@ -2,9 +2,8 @@
 
 
 
-🇧🇷
 ### ✨ Olá! Bem-vindo(a) ao meu perfil no GitHub! 
-### Eu sou Luciana Brito e moro no Brasil. ✨
+### Sou Luciana Brito e moro no Brasil. ✨
 
 ### Sobre mim:
 • 👩🏻‍💻 Sou Desenvolvedora Web Full-Stack com foco em Front-End.  
@@ -13,34 +12,80 @@
 
 🎯 Meu principal objetivo é alcançar maior proficiência técnica e compreensão estratégica para a criação de plataformas e/ou softwares interativos e eficientes.  
 
-
+---
 
 ### 🔗 Meus principais links:
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/_lucianabritto)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-brito-60a307237/)
 
+---
 
+### 👩🏻‍💻 Tecnologias que domino:
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div><br/>
+
+---
+
+### 📚 Tecnologias que estou aprendendo:
+<div style="display: inline_block"><br/>
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div><br/>
+
+---
+
+### 👩🏻‍💻 DevOps:
+<div style="display: inline_block"><br/>
+<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div><br/>
+
+---
+
+### ☁️ Cloud:
+<div style="display: inline_block"><br/>
+<img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div><br/>
+
+---
+
+### 📊 Ferramentas de Desenvolvimento:
+<div style="display: inline_block"><br/>
+<img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div><br/>
+
+---
 
 ### 🗣️ Idiomas:
 🇧🇷 Português: Nativo  
 🇬🇧 Inglês: B2  
-<!--🇫🇷 Francês: A2 -->
+<!-- 🇫🇷 Francês: A2 -->
 
-
+---
 
 ### 📧 Contato:
 Email: **lucianabritodev@gmail.com**
 
-
-
-"A tecnologia move o mundo".
-
 ---
 
+_"A tecnologia move o mundo."_ 🌍
 
 
 
-🇬🇧
+
+<!--🇬🇧
 ### ✨ Hello! Welcome to my profile GitHub! 
 ### I am Luciana Brito and I living in Brazil. ✨
 
@@ -62,7 +107,7 @@ Email: **lucianabritodev@gmail.com**
 [Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaBritoDev&theme=dracula) -->
 
 
-### 👩🏻‍💻 Technologies that I am aware of:
+<!--### 👩🏻‍💻 Technologies that I am aware of:
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -77,7 +122,7 @@ Email: **lucianabritodev@gmail.com**
 <!--<img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
 <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
-</div><br/>
+<!--</div><br/> 
 
 
 ### 📚 Tecnologies I am learning:
@@ -114,13 +159,13 @@ Email: **lucianabritodev@gmail.com**
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 </div><br/> -->
-### 🗣️ My languages:
+<!--### 🗣️ My languages:
 🇧🇷 Portuguese: Native;
 🇬🇧 English: B2.
 <!--🇫🇷 Français: A2. -->
 
 
-### 📧 Contact me:
+<!--### 📧 Contact me:
 Email: lucianabritodev@gmail.com
 
 
