@@ -80,7 +80,7 @@ Email: **lucianabritodev@gmail.com**
 
 ---
 
-_"A tecnologia move o mundo."_ 🌍
+"A tecnologia move o mundo".
 
 
 
