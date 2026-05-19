@@ -13,27 +13,27 @@
 
 🎯 Meu principal objetivo é alcançar maior proficiência técnica e compreensão estratégica para a criação de plataformas e/ou softwares interativos e eficientes.  
 
----
+
 
 ### 🔗 Meus principais links:
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/_lucianabritto)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-brito-60a307237/)
 
----
+
 
 ### 🗣️ Idiomas:
 🇧🇷 Português: Nativo  
 🇬🇧 Inglês: B2  
 <!--🇫🇷 Francês: A2 -->
 
----
+
 
 ### 📧 Contato:
 Email: **lucianabritodev@gmail.com**
 
----
 
-_"A tecnologia move o mundo."_ 🌍
+
+"A tecnologia move o mundo".
 
 ---
 
@@ -122,9 +122,6 @@ _"A tecnologia move o mundo."_ 🌍
 
 ### 📧 Contact me:
 Email: lucianabritodev@gmail.com
-
-
-
 
 
 
