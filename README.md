@@ -1,6 +1,43 @@
 ![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=0:6e0f0f,100:c0a060&height=200&section=header&text=Luciana%20Brito%20&fontSize=40&fontColor=fff&animation=fadeIn&desc=Desenvolvedora%20Full-%20Stack&descAlignY=90&descColor=f5f5dc)
 
 
+
+🇧🇷
+### ✨ Olá! Bem-vindo(a) ao meu perfil no GitHub! 
+### Eu sou Luciana Brito e moro no Brasil. ✨
+
+### Sobre mim:
+• 👩🏻‍💻 Sou Desenvolvedora Web Full-Stack com foco em Front-End.  
+
+• 👩🏻‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprendendo mais sobre Python, MySQL, SQLite e AWS Cloud.  
+
+🎯 Meu principal objetivo é alcançar maior proficiência técnica e compreensão estratégica para a criação de plataformas e/ou softwares interativos e eficientes.  
+
+---
+
+### 🔗 Meus principais links:
+[![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/_lucianabritto)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-brito-60a307237/)
+
+---
+
+### 🗣️ Idiomas:
+🇧🇷 Português: Nativo  
+🇬🇧 Inglês: B2  
+<!--🇫🇷 Francês: A2 -->
+
+---
+
+### 📧 Contato:
+Email: **lucianabritodev@gmail.com**
+
+---
+
+_"A tecnologia move o mundo."_ 🌍
+
+
+
+🇬🇧
 ### ✨ Hello! Welcome to my profile GitHub! 
 ### I am Luciana Brito and I living in Brazil. ✨
 
