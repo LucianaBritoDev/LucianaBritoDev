@@ -14,7 +14,7 @@
 
 ---
 
-### 🔗 Meus principais links:
+### 🔗 Conheça o meu trabalho:
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/_lucianabritto)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-brito-60a307237/)
 
