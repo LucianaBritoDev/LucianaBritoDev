@@ -6,7 +6,7 @@
 ### Sou Luciana Brito e moro no Brasil. ✨-->
 
 ### Sobre mim:
-• 👩🏻‍💻 Sou Desenvolvedora Web Full-Stack com foco em Front-End.  
+• 👩🏻‍💻 Sou Desenvolvedora Web Full-Stack com foco em desenvolvimento Front-End.  
 
 • 👩🏻‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprendendo mais sobre Python, MySQL, SQLite e AWS Cloud.  
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🔗 Conheça o meu trabalho:
+### 🔗 Conheça o meu trabalho acessando os links abaixo:
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/_lucianabritto)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-brito-60a307237/)
 
@@ -38,15 +38,16 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="center" alt="postman" src="https://camo.githubusercontent.com/ee9df3cf27a27f690521bbc4969716064d60402786b0f0072cfd95b7774fb42f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" /> 
 </div><br/>
 
 ---
 
-### 👩🏻‍💻 DevOps:
+<!--### 👩🏻‍💻 DevOps:
 <div style="display: inline_block"><br/>
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div><br/>
+</div><br/> -->
 
 ---
 
@@ -61,6 +62,8 @@
 ### 📊 Ferramentas de Desenvolvimento:
 <div style="display: inline_block"><br/>
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -69,9 +72,9 @@
 ---
 
 ### 🗣️ Idiomas:
-🇧🇷 Português: Nativo  
-🇬🇧 Inglês: B2  
-<!-- 🇫🇷 Francês: A2 -->
+🇧🇷 Português: Nativo;  
+🇬🇧 Inglês: B2;  
+🇫🇷 Francês: A2.
 
 ---
 
