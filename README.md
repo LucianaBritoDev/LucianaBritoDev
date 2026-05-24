@@ -38,7 +38,8 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img align="center" alt="postman" src="https://camo.githubusercontent.com/ee9df3cf27a27f690521bbc4969716064d60402786b0f0072cfd95b7774fb42f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" /> 
+<img align="center" alt="postman" src="https://camo.githubusercontent.com/ee9df3cf27a27f690521bbc4969716064d60402786b0f0072cfd95b7774fb42f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" />
+<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div><br/>
 
 ---
@@ -49,13 +50,13 @@
 <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/> -->
 
----
 
-### ☁️ Cloud:
+
+<!--### ☁️ Cloud:
 <div style="display: inline_block"><br/>
 <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div><br/>
+</div><br/> -->
 
 ---
 
@@ -86,6 +87,8 @@ E-mail: **lucianabritodev@gmail.com**
 "A tecnologia move o mundo".
 
 
+
+![Luciana Brito](https://camo.githubusercontent.com/b5e0fa85414b2fecace0f2c012e25813f5ea8f6a913a3681cca2db1e82953f0e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3136323133652c3130303a316131613265266865696768743d3132302673656374696f6e3d666f6f746572).
 
 
 <!--🇬🇧
