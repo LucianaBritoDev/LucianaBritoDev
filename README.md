@@ -88,7 +88,8 @@ E-mail: **lucianabritodev@gmail.com**
 
 
 
-![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Full-Stack&descAlignY=70&descColor=f5f5dc)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
 
 
 
