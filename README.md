@@ -58,7 +58,7 @@
 <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div><br/> -->
 
----
+
 
 ### 📊 Ferramentas de Desenvolvimento:
 <div style="display: inline_block"><br/>
@@ -88,7 +88,8 @@ E-mail: **lucianabritodev@gmail.com**
 
 
 
-![Luciana Brito](https://camo.githubusercontent.com/b5e0fa85414b2fecace0f2c012e25813f5ea8f6a913a3681cca2db1e82953f0e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3136323133652c3130303a316131613265266865696768743d3132302673656374696f6e3d666f6f746572).
+![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Full-Stack&descAlignY=70&descColor=f5f5dc)
+
 
 
 <!--🇬🇧
