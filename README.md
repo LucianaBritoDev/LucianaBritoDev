@@ -88,7 +88,8 @@ E-mail: **lucianabritodev@gmail.com**
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:8000ff,75:00bfff,100:ffcc00&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=twinkling)
+
 
 
 
