@@ -65,7 +65,7 @@
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<!-- <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> -->
 <img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
@@ -73,13 +73,13 @@
 ---
 
 ### 🗣️ Idiomas:
-🇧🇷 Português: Nativo;  
+🇧🇷 Português: nativo;  
 🇬🇧 Inglês: B2;  
-🇫🇷 Francês: A2.
+<!--🇫🇷 Francês: A2. -->
 
 ---
 
-### 📧 Contato:
+### 📧 Meu contato:
 E-mail: **lucianabritodev@gmail.com**
 
 ---
