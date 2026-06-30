@@ -6,9 +6,9 @@
 ### Sou Luciana Brito e moro no Brasil. ✨-->
 
 ### Sobre mim:
-• 👩🏻‍💻 Sou Desenvolvedora Web Full-Stack com foco em desenvolvimento Front-End.  
+• 👩🏻‍💻 Sou Desenvolvedora Web Full-Stack Júnior com foco em desenvolvimento Front-End.  
 
-• 👩🏻‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprendendo mais sobre Python, MySQL, SQLite e AWS Cloud.  
+• 👩🏻‍🎓 Possuo formação em Análise e Desenvolvimento de Sistemas e atualmente estou aprendendo mais sobre Java, MySQL, SQLite e AWS Cloud.  
 
 🎯 Meu principal objetivo é alcançar maior proficiência técnica e compreensão estratégica para a criação de plataformas e/ou softwares interativos e eficientes.  
 
@@ -27,19 +27,20 @@
 <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="center" alt="postman" src="https://camo.githubusercontent.com/ee9df3cf27a27f690521bbc4969716064d60402786b0f0072cfd95b7774fb42f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" />
+<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div><br/>
 
 ---
 
 ### 📚 Tecnologias que estou aprendendo:
 <div style="display: inline_block"><br/>
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img align="center" alt="postman" src="https://camo.githubusercontent.com/ee9df3cf27a27f690521bbc4969716064d60402786b0f0072cfd95b7774fb42f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" />
-<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<!--<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
 ---
