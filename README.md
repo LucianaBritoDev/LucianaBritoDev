@@ -8,7 +8,7 @@
 ### Sobre mim:
 • 👩🏻‍💻 Sou Desenvolvedora Web Full-Stack Júnior com foco em desenvolvimento Front-End.  
 
-• 👩🏻‍🎓 Possuo formação em Análise e Desenvolvimento de Sistemas e atualmente estou aprendendo mais sobre Java, MySQL, SQLite e AWS Cloud.  
+• 👩🏻‍🎓 Possuo formação em Análise e Desenvolvimento de Sistemas e atualmente estou aprendendo mais sobre Java e AWS Cloud.  
 
 🎯 Meu principal objetivo é alcançar maior proficiência técnica e compreensão estratégica para a criação de plataformas e/ou softwares interativos e eficientes.  
 
@@ -32,7 +32,6 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img align="center" alt="postman" src="https://camo.githubusercontent.com/ee9df3cf27a27f690521bbc4969716064d60402786b0f0072cfd95b7774fb42f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" />
-<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div><br/>
 
 ---
@@ -41,6 +40,7 @@
 <div style="display: inline_block"><br/>
 <!--<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div><br/>
 
 ---
