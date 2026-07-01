@@ -3,16 +3,18 @@
 ### Sobre mim:
 • 👩🏻‍💻 **Desenvolvedora Web Full-Stack Júnior** focada em construir soluções ponta a ponta que unam interfaces fluidas a arquiteturas de backend eficientes.
 
-• 👩🏻‍🎓 Graduada em **Análise e Desenvolvimento de Sistemas**, unindo uma base teórica sólida com a experiência de mercado adquirida no ecossistema corporativo da **Compass UOL** e em projetos autônomos.
+• 👩🏻‍🎓 Com formação em **Análise e Desenvolvimento de Sistemas**, unindo uma base teórica sólida com a experiência de mercado adquirida no ecossistema corporativo da **Compass UOL** e em projetos autônomos.
 
 • 🎯 **Objetivo:** Criar plataformas de alto impacto, escaláveis e focadas na experiência do usuário, aplicando boas práticas de código limpo, testes e arquitetura em nuvem.
 
 ---
 
 ### 🚀 Projetos em Destaque:
-*Aqui você pode lincar os seus 2 melhores repositórios (ex: um e-commerce ou uma API robusta)*
-* 🛒 **[Nome do Projeto 1](link-do-repositorio):** E-commerce completo desenvolvido com React, Node.js e banco de dados MySQL, com deploy automatizado.
-* ⚙️ **[Nome do Projeto 2](link-do-repositorio):** API RESTful estruturada para gerenciamento de dados, documentada e testada via Postman.
+* 🎮 **[Game List - Full-Stack Web App](https://github.com/LucianaBritoDev/AWS_FS_ABR25_D03_COMPASS_GameList-master):** Aplicação robusta para gerenciamento de coleções de jogos com operações CRUD completas, autenticação JWT e dashboard estatístico. 
+  * **Diferencial Técnico:** Arquitetura Full-Stack em **TypeScript** (React 19 + Node.js/Express), persistência com **PostgreSQL via Prisma ORM** e deploy real em infraestrutura **AWS EC2**, utilizando **Docker & Docker Compose** para orquestração de containers e isolamento seguro de dados.
+
+* 📚 **[Livros Vai Na Web - Integração Full-Stack](https://github.com/LucianaBritoDev/Project-Final-Challenge-Module):** Plataforma ponta a ponta para doação e gerenciamento de livros, focada na integração de serviços e comunicação assíncrona.
+  * **Diferencial Técnico:** Conexão e integração completa entre uma interface dinâmica e uma API RESTful de Back-end, aplicando conceitos de consumo de rotas, manipulação de estados globais, tratamento de requisições assíncronas e exibição de dados persistidos em tempo real.
 
 ---
 
@@ -24,11 +26,12 @@
 
 ### 👩🏻‍💻 Tecnologias e Ecossistemas que domino:
 <div style="display: inline_block"><br/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
@@ -39,8 +42,10 @@
 
 ---
 
-### 📚 No meu radar atual de evolução:
+### 📚 No meu radar atual de evolução (Aprofundamento & Prática):
 <div style="display: inline_block"><br/>
+<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img align="center" alt="scrum" src="https://img.shields.io/badge/Scrum-004088?style=for-the-badge&logo=scrum&logoColor=white" />
 </div><br/>
@@ -60,7 +65,7 @@
 
 ### 🗣️ Idiomas:
 🇧🇷 Português: nativo;  
-🇬🇧 Inglês: Avançado (B2);  
+🇬🇧 Inglês: Intermediário (B2);  
 
 ---
 
