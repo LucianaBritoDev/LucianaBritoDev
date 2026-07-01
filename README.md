@@ -1,11 +1,93 @@
 ![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Full-Stack&descAlignY=70&descColor=f5f5dc)
 
+### Sobre mim:
+• 👩🏻‍💻 **Desenvolvedora Web Full-Stack Júnior** focada em construir soluções ponta a ponta que unam interfaces fluidas a arquiteturas de backend eficientes.
+
+• 👩🏻‍🎓 Graduada em **Análise e Desenvolvimento de Sistemas**, unindo uma base teórica sólida com a experiência de mercado adquirida no ecossistema corporativo da **Compass UOL** e em projetos autônomos.
+
+• 🎯 **Objetivo:** Criar plataformas de alto impacto, escaláveis e focadas na experiência do usuário, aplicando boas práticas de código limpo, testes e arquitetura em nuvem.
+
+---
+
+### 🚀 Projetos em Destaque:
+*Aqui você pode lincar os seus 2 melhores repositórios (ex: um e-commerce ou uma API robusta)*
+* 🛒 **[Nome do Projeto 1](link-do-repositorio):** E-commerce completo desenvolvido com React, Node.js e banco de dados MySQL, com deploy automatizado.
+* ⚙️ **[Nome do Projeto 2](link-do-repositorio):** API RESTful estruturada para gerenciamento de dados, documentada e testada via Postman.
+
+---
+
+### 🔗 Conheça o meu trabalho acessando os links abaixo:
+[![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/_lucianabritto)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-brito-60a307237/)
+
+---
+
+### 👩🏻‍💻 Tecnologias e Ecossistemas que domino:
+<div style="display: inline_block"><br/>
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</div><br/>
+
+---
+
+### 📚 No meu radar atual de evolução:
+<div style="display: inline_block"><br/>
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img align="center" alt="scrum" src="https://img.shields.io/badge/Scrum-004088?style=for-the-badge&logo=scrum&logoColor=white" />
+</div><br/>
+
+---
+
+### 📊 Ferramentas & Práticas de Engenharia:
+<div style="display: inline_block"><br/>
+<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</div><br/>
+
+---
+
+### 🗣️ Idiomas:
+🇧🇷 Português: nativo;  
+🇬🇧 Inglês: Avançado (B2);  
+
+---
+
+### 📧 Vamos nos conectar?
+- E-mail: **lucianabritodev@gmail.com**
+- LinkedIn: [Luciana Brito](https://www.linkedin.com/in/luciana-brito-60a307237/)
+
+---
+
+"A tecnologia move o mundo".
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=twinkling)
+
+
+
+
+
+
+
+<!--![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Full-Stack&descAlignY=70&descColor=f5f5dc)
+
 
 
 <!--### ✨ Olá! Bem-vindo(a) ao meu perfil no GitHub! 
 ### Sou Luciana Brito e moro no Brasil. ✨-->
 
-### Sobre mim:
+<!-- ### Sobre mim:
 • 👩🏻‍💻 Sou Desenvolvedora Full-Stack Júnior.  
 
 • 👩🏻‍🎓 Possuo formação em Análise e Desenvolvimento de Sistemas e atualmente estou aprendendo mais sobre Java e AWS Cloud.  
@@ -38,9 +120,9 @@
 
 ### 📚 Tecnologias que estou aprendendo:
 <div style="display: inline_block"><br/>
-<!--<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<!--<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> -->
+<!--<img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div><br/>
 
 ---
@@ -61,7 +143,7 @@
 
 
 
-### 📊 Ferramentas de Desenvolvimento:
+<!-- ### 📊 Ferramentas de Desenvolvimento:
 <div style="display: inline_block"><br/>
 <img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -69,7 +151,7 @@
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <!-- <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> -->
-</div><br/>
+<!--</div><br/> 
 
 ---
 
@@ -78,7 +160,7 @@
 🇬🇧 Inglês: B2;  
 <!--🇫🇷 Francês: A2. -->
 
----
+<!-----
 
 ### 📧 Meu contato:
 E-mail: **lucianabritodev@gmail.com**
@@ -89,7 +171,7 @@ E-mail: **lucianabritodev@gmail.com**
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=twinkling) -->
 
 
 
