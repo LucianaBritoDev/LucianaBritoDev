@@ -3,9 +3,9 @@
 ### Sobre mim:
 • 👩🏻‍💻 **Desenvolvedora Web Full-Stack Júnior** focada em construir soluções ponta a ponta que unam interfaces fluidas a arquiteturas de backend eficientes.
 
-• 👩🏻‍🎓 Com formação em **Análise e Desenvolvimento de Sistemas**, unindo uma base teórica sólida com a experiência de mercado adquirida em ecossistemas corporativos e em projetos autônomos.
+• 👩🏻‍🎓 Com formação em **Análise e Desenvolvimento de Sistemas**, unindo uma base teórica sólida com a experiência de mercado adquirida em ecossistemas corporativos, bem como em projetos autônomos.
 
-• 🎯 **Objetivo:** Criar plataformas de alto impacto, escaláveis e focadas na experiência do usuário, aplicando boas práticas de código limpo, testes e arquitetura em nuvem.
+• 🎯 **Objetivo:** criar plataformas de alto impacto, escaláveis e focadas na experiência do usuário, aplicando boas práticas de código limpo, testes e arquitetura em nuvem.
 
 ---
 
