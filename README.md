@@ -3,17 +3,17 @@
 ### Sobre mim:
 • 👩🏻‍💻 **Desenvolvedora Web Full-Stack Júnior** focada em construir soluções de ponta a ponta, unindo interfaces fluidas e arquiteturas de backend eficientes.
 
-• 👩🏻‍🎓 Com formação em **Análise e Desenvolvimento de Sistemas**, trago uma base sólida em desenvolvimento, lógica de programação e boas práticas, além de experiência adquirida em ambientes corporativos e em projetos reais.
+• 👩🏻‍🎓 Com formação em **Análise e Desenvolvimento de Sistemas**, trago uma base sólida em desenvolvimento, lógica de programação e boas práticas, além de experiência adquirida em projetos acadêmicos e pessoais de alto nível.
 
 • 🎯 **Objetivo:** criar plataformas de alto impacto, escaláveis e focadas na experiência do usuário, aplicando código limpo, testes e arquitetura em nuvem.
 
 ---
 
 ### 🚀 Projetos em destaque:
-* 🎮 **[Game List - Full-Stack Web App](https://github.com/LucianaBritoDev/AWS_FS_ABR25_D03_COMPASS_GameList-master):** Aplicação completa para gerenciamento de coleções de jogos, com cadastro, listagem, autenticação, edição e organização de dados.
+* 🎮 **[Game List - Full-Stack Web App](https://github.com/LucianaBritoDev/AWS_FS_ABR25_D03_COMPASS_GameList-master):** Aplicação completa para gerenciamento de coleções de jogos, com cadastro, listagem, edição e remoção de itens, incluindo autenticação e área administrativa.
   * **Diferencial técnico:** arquitetura Full-Stack em **TypeScript** com **React 19 + Node.js/Express**, persistência com **PostgreSQL via Prisma ORM** e deploy em infraestrutura **AWS EC2**.
 
-* 📚 **[Livros Vai Na Web - Integração Full-Stack](https://github.com/LucianaBritoDev/Project-Final-Challenge-Module):** Plataforma de doação e gestão de livros, com foco em experiência do usuário e organização do fluxo de cadastro e catalogação.
+* 📚 **[Livros Vai Na Web - Integração Full-Stack](https://github.com/LucianaBritoDev/Project-Final-Challenge-Module):** Plataforma de doação e gestão de livros, com foco em experiência do usuário, organização e sustentabilidade de acervo.
   * **Diferencial técnico:** integração completa entre interface dinâmica e API RESTful de back-end, consumindo rotas, manipulando estados globais e estruturando dados em camadas.
 
 ---
