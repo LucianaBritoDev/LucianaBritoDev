@@ -10,11 +10,11 @@
 ---
 
 ### 🚀 Projetos em destaque:
-* 🎮 **[Game List - Full-Stack Web App](https://github.com/LucianaBritoDev/AWS_FS_ABR25_D03_COMPASS_GameList-master):** Aplicação completa para gerenciamento de coleções de jogos, com cadastro, listagem, edição e remoção de itens, incluindo autenticação e área administrativa.
-  * **Diferencial técnico:** arquitetura Full-Stack em **TypeScript** com **React 19 + Node.js/Express**, persistência com **PostgreSQL via Prisma ORM** e deploy em infraestrutura **AWS EC2**.
+* 🤖 **[OpenCode](https://github.com/LucianaBritoDev/opencode):** Aplicação desenvolvida para fins de estudo (2026.2), com foco em interações inteligentes, automações e fluxos práticos de uso.
+  * **Diferencial técnico:** estudo de integração entre interface e lógica de processamento de prompts, com arquitetura simples e foco em experiência de usuário produtiva.
 
-* 📚 **[Livros Vai Na Web - Integração Full-Stack](https://github.com/LucianaBritoDev/Project-Final-Challenge-Module):** Plataforma de doação e gestão de livros, com foco em experiência do usuário, organização e sustentabilidade de acervo.
-  * **Diferencial técnico:** integração completa entre interface dinâmica e API RESTful de back-end, consumindo rotas, manipulando estados globais e estruturando dados em camadas.
+* 💬 **[Chatbot](https://github.com/LucianaBritoDev/chatbot):** Aplicação desenvolvida para fins de estudo (2026.2), voltada para conversação e respostas automatizadas em interface web.
+  * **Diferencial técnico:** protótipo de experiência interativa com comunicação direta, responsividade e estrutura de interface funcional para uso prático.
 
 ---
 
