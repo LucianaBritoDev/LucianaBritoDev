@@ -5,15 +5,17 @@
 
 • 👩🏻‍🎓 Com formação em **Análise e Desenvolvimento de Sistemas**, trago uma base sólida em desenvolvimento, lógica de programação e boas práticas, além de experiência adquirida em projetos acadêmicos e pessoais de alto nível.
 
-• 🎯 **Objetivo:** criar plataformas de alto impacto, escaláveis e focadas na experiência do usuário, aplicando código limpo, testes e arquitetura em nuvem.
+• 🧠 **Estou estudando Inteligência Artificial (IA)** e explorando formas de aplicar IA em produtos reais, experiências interativas e automação de processos.
+
+• 🎯 **Objetivo:** criar plataformas de alto impacto, escaláveis e focadas na experiência do usuário, aplicando código limpo, testes, arquitetura em nuvem e boas práticas de IA responsável.
 
 ---
 
 ### 🚀 Projetos em destaque:
-* 🤖 **[OpenCode](https://github.com/LucianaBritoDev/opencode):** Aplicação desenvolvida para fins de estudo (2026.2), com foco em interações inteligentes, automações e fluxos práticos de uso.
+* 🤖 **[OpenCode](https://github.com/LucianaBritoDev/opencode):** Aplicação desenvolvida para fins de estudo (2026.2), com foco em interações inteligentes, automações e fluxos práticos de uso, alinhados ao meu estudo de IA.
   * **Diferencial técnico:** estudo de integração entre interface e lógica de processamento de prompts, com arquitetura simples e foco em experiência de usuário produtiva.
 
-* 💬 **[Chatbot](https://github.com/LucianaBritoDev/chatbot):** Aplicação desenvolvida para fins de estudo (2026.2), voltada para conversação e respostas automatizadas em interface web.
+* 💬 **[Chatbot](https://github.com/LucianaBritoDev/chatbot):** Aplicação desenvolvida para fins de estudo (2026.2), voltada para conversação e respostas automatizadas em interface web, como parte da minha exploração em IA conversacional.
   * **Diferencial técnico:** protótipo de experiência interativa com comunicação direta, responsividade e estrutura de interface funcional para uso prático.
 
 ---
@@ -47,6 +49,7 @@
 <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="ia" src="https://img.shields.io/badge/IA-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" />
 <img align="center" alt="scrum" src="https://img.shields.io/badge/Scrum-004088?style=for-the-badge&logo=scrum&logoColor=white" />
 </div><br/>
 
