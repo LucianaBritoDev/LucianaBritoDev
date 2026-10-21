@@ -1,13 +1,13 @@
-![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Full-Stack%20J%C3%BAnior)
+![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Web%20Full-Stack%20J%C3%BAnior%20%7C%20IA%20em%20estudo)
 
 ### Sobre mim:
-• 👩🏻‍💻 **Desenvolvedora Web Full-Stack Júnior** focada em construir soluções de ponta a ponta, unindo interfaces fluidas e arquiteturas de backend eficientes.
+• 👩🏻‍💻 **Desenvolvedora Web Full-Stack Júnior**, com foco em construir soluções de ponta a ponta, unindo interfaces fluidas, lógica de backend e experiências digitais de alto impacto.
 
 • 👩🏻‍🎓 Com formação em **Análise e Desenvolvimento de Sistemas**, trago uma base sólida em desenvolvimento, lógica de programação e boas práticas, além de experiência adquirida em projetos acadêmicos e pessoais de alto nível.
 
-• 🧠 **Estou estudando Inteligência Artificial (IA)** e explorando formas de aplicar IA em produtos reais, experiências interativas e automação de processos.
+• 🧠 **Estou estudando Inteligência Artificial para Desenvolvedores**, explorando como aplicar IA em produtos reais, automações, experiências interativas e soluções mais inteligentes.
 
-• 🎯 **Objetivo:** criar plataformas de alto impacto, escaláveis e focadas na experiência do usuário, aplicando código limpo, testes, arquitetura em nuvem e boas práticas de IA responsável.
+• 🎯 **Objetivo:** evoluir como desenvolvedora, criando plataformas escaláveis, funcionais e centradas na experiência do usuário, com foco em código limpo, arquitetura sólida e inovação com IA aplicada.
 
 ---
 
