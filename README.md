@@ -73,8 +73,8 @@
 ---
 
 ### 📧 Vamos nos conectar?
- 📩 E-mail: **lucianabritodev@gmail.com**
- 🔗 LinkedIn: [Luciana Brito](https://www.linkedin.com/in/luciana-brito-60a307237/)
+📩 E-mail: **lucianabritodev@gmail.com**
+🔗 LinkedIn: [Luciana Brito](https://www.linkedin.com/in/luciana-brito-60a307237/)
 
 ---
 
