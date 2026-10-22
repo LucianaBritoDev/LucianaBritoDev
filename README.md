@@ -1,13 +1,13 @@
 ![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20%20FullStack%20J%C3%BAnior%20%7C%20IA%20em%20estudo)
 
 ### Sobre mim:
-• 👩🏻‍💻 Desenvolvedora Full Stack Júnior apaixonada por tecnologia, desenvolvimento web e construção de soluções de ponta a ponta.
+👩🏻‍💻 Desenvolvedora Full Stack Júnior apaixonada por tecnologia, desenvolvimento web e construção de soluções de ponta a ponta.
 
-• 👩🏻‍🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas, com experiência prática no desenvolvimento de aplicações web utilizando React.js, Node.js, TypeScript e AWS.
+👩🏻‍🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas, com experiência prática no desenvolvimento de aplicações web utilizando React.js, Node.js, TypeScript e AWS.
 
-• 🧠 Atualmente em formação em Inteligência Artificial para Desenvolvedores, explorando automação, IA aplicada e experiências interativas.
+🧠 Atualmente em formação em Inteligência Artificial para Desenvolvedores, explorando automação, IA aplicada e experiências interativas.
 
-• 🎯 Meu objetivo é desenvolver aplicações escaláveis, funcionais e centradas no usuário, combinando boas práticas de engenharia de software, experiência do usuário e inovação com IA aplicada.
+🎯 Meu objetivo é desenvolver aplicações escaláveis, funcionais e centradas no usuário, combinando boas práticas de engenharia de software, experiência do usuário e inovação com IA aplicada.
 
 ---
 
