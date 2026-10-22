@@ -1,21 +1,21 @@
-![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Web%20FullStack%20J%C3%BAnior%20%7C%20IA%20em%20estudo)
+![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20%20FullStack%20J%C3%BAnior%20%7C%20IA%20em%20estudo)
 
 ### Sobre mim:
-• 👩🏻‍💻 Desenvolvedora Web Full Stack Júnior apaixonada por tecnologia, desenvolvimento web e construção de soluções de ponta a ponta.
+• 👩🏻‍💻 Desenvolvedora Full Stack Júnior apaixonada por tecnologia, desenvolvimento web e construção de soluções de ponta a ponta.
 
 • 👩🏻‍🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas, com experiência prática em aplicações web utilizando React.js, Node.js, TypeScript e AWS.
 
 • 🧠 Atualmente em formação em Inteligência Artificial para Desenvolvedores, explorando automação, IA aplicada e experiências interativas.
 
-• 🎯 Meu objetivo é desenvolver aplicações escaláveis, funcionais e centradas no usuário, combinando boas práticas de engenharia de software com inovação tecnológica.
+• 🎯 Meu objetivo é desenvolver aplicações escaláveis, funcionais e centradas no usuário, combinando boas práticas de engenharia de software, experiência do usuário e inovação com IA aplicada.
 
 ---
 
 ### 🚀 Projetos em destaque:
-* 🤖 **[OpenCode](https://github.com/LucianaBritoDev/opencode):** Aplicação desenvolvida para fins de estudo (2026.2), com foco em interações inteligentes, automações e fluxos práticos de uso, alinhados ao meu estudo de IA.
+* 🤖 **[OpenCode](https://github.com/LucianaBritoDev/opencode):** Aplicação desenvolvida como projeto de estudo em Inteligência Artificial, explorando interações inteligentes, automação e experiências práticas orientadas ao usuário.
   * **Diferencial técnico:** estudo de integração entre interface e lógica de processamento de prompts, com arquitetura simples e foco em experiência de usuário produtiva.
 
-* 💬 **[Chatbot](https://github.com/LucianaBritoDev/chatbot):** Aplicação desenvolvida para fins de estudo (2026.2), voltada para conversação e respostas automatizadas em interface web, como parte da minha exploração em IA conversacional.
+* 💬 **[Chatbot](https://github.com/LucianaBritoDev/chatbot):** Projeto de estudo voltado para conversação e respostas automatizadas em ambiente web, explorando conceitos de IA conversacional e interfaces interativas.
   * **Diferencial técnico:** protótipo de experiência interativa com comunicação direta, responsividade e estrutura de interface funcional para uso prático.
 
 ---
@@ -78,6 +78,6 @@
 
 ---
 
-"A tecnologia move o mundo".
+Transformando ideias em soluções por meio da tecnologia.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=twinkling)
