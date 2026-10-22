@@ -3,7 +3,7 @@
 ### Sobre mim:
 • 👩🏻‍💻 Desenvolvedora Full Stack Júnior apaixonada por tecnologia, desenvolvimento web e construção de soluções de ponta a ponta.
 
-• 👩🏻‍🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas, com experiência prática em aplicações web utilizando React.js, Node.js, TypeScript e AWS.
+• 👩🏻‍🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas, com experiência prática no desenvolvimento de aplicações web utilizando React.js, Node.js, TypeScript e AWS.
 
 • 🧠 Atualmente em formação em Inteligência Artificial para Desenvolvedores, explorando automação, IA aplicada e experiências interativas.
 
@@ -13,10 +13,10 @@
 
 ### 🚀 Projetos em destaque:
 * 🤖 **[OpenCode](https://github.com/LucianaBritoDev/opencode):** Aplicação desenvolvida como projeto de estudo em Inteligência Artificial, explorando interações inteligentes, automação e experiências práticas orientadas ao usuário.
-  * **Diferencial técnico:** estudo de integração entre interface e lógica de processamento de prompts, com arquitetura simples e foco em experiência de usuário produtiva.
+  * **Diferencial técnico:** estudo da integração entre interface de usuário e processamento de prompts, com foco em usabilidade, organização da aplicação e experiência do usuário.
 
 * 💬 **[Chatbot](https://github.com/LucianaBritoDev/chatbot):** Projeto de estudo voltado para conversação e respostas automatizadas em ambiente web, explorando conceitos de IA conversacional e interfaces interativas.
-  * **Diferencial técnico:** protótipo de experiência interativa com comunicação direta, responsividade e estrutura de interface funcional para uso prático.
+  * **Diferencial técnico:** desenvolvimento de uma experiência conversacional responsiva com foco em interação, acessibilidade e aplicação prática de conceitos de IA conversacional.
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 👩🏻‍💻 Tecnologias e ecossistemas que trabalho:
+### 👩🏻‍💻 Tecnologias com as quais trabalho:
 <div style="display: inline_block"><br/>
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
