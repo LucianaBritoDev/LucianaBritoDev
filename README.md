@@ -1,4 +1,4 @@
-![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=%20%20%20J%C3%BAnior%20%7C%20%20%20)
+![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=%20%20%20%C3%BA%20%7C%20%20%20)
 
 ### Sobre mim:
 👩🏻‍💻 Desenvolvedora Full Stack Júnior apaixonada por tecnologia, desenvolvimento web e construção de soluções de ponta a ponta.
