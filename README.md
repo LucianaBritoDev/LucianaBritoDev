@@ -1,13 +1,13 @@
-![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Web%20Full-Stack%20J%C3%BAnior%20%7C%20IA%20em%20estudo)
+![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Web%20FullStack%20J%C3%BAnior%20%7C%20IA%20em%20estudo)
 
 ### Sobre mim:
-• 👩🏻‍💻 **Desenvolvedora Web Full Stack Júnior**, com foco em construir soluções de ponta a ponta, unindo interfaces fluidas, lógica de backend e experiências digitais de alto impacto.
+• 👩🏻‍💻 Desenvolvedora Web Full Stack Júnior apaixonada por tecnologia, desenvolvimento web e construção de soluções de ponta a ponta.
 
-• 👩🏻‍🎓 Com formação em **Análise e Desenvolvimento de Sistemas**, trago uma base sólida em desenvolvimento, lógica de programação e boas práticas, além de experiência adquirida em projetos acadêmicos e pessoais de alto nível.
+• 👩🏻‍🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas, com experiência prática em aplicações web utilizando React.js, Node.js, TypeScript e AWS.
 
-• 🧠 **Estou estudando Inteligência Artificial para Desenvolvedores**, explorando como aplicar IA em produtos reais, automações, experiências interativas e soluções mais inteligentes.
+• 🧠 Atualmente em formação em Inteligência Artificial para Desenvolvedores, explorando automação, IA aplicada e experiências interativas.
 
-• 🎯 **Objetivo:** evoluir como desenvolvedora, criando plataformas escaláveis, funcionais e centradas na experiência do usuário, com foco em código limpo, arquitetura sólida e inovação com IA aplicada.
+• 🎯 Meu objetivo é desenvolver aplicações escaláveis, funcionais e centradas no usuário, combinando boas práticas de engenharia de software com inovação tecnológica.
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 👩🏻‍💻 Tecnologias e ecossistemas que domino:
+### 👩🏻‍💻 Tecnologias e ecossistemas que trabalho:
 <div style="display: inline_block"><br/>
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
