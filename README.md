@@ -1,7 +1,7 @@
 ![Luciana Brito](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luciana%20Brito&fontSize=40&fontColor=fff&animation=twinkling&desc=Desenvolvedora%20Web%20Full-Stack%20J%C3%BAnior%20%7C%20IA%20em%20estudo)
 
 ### Sobre mim:
-• 👩🏻‍💻 **Desenvolvedora Web Full-Stack Júnior**, com foco em construir soluções de ponta a ponta, unindo interfaces fluidas, lógica de backend e experiências digitais de alto impacto.
+• 👩🏻‍💻 **Desenvolvedora Web Full Stack Júnior**, com foco em construir soluções de ponta a ponta, unindo interfaces fluidas, lógica de backend e experiências digitais de alto impacto.
 
 • 👩🏻‍🎓 Com formação em **Análise e Desenvolvimento de Sistemas**, trago uma base sólida em desenvolvimento, lógica de programação e boas práticas, além de experiência adquirida em projetos acadêmicos e pessoais de alto nível.
 
