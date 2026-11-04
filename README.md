@@ -13,14 +13,14 @@ Sou Desenvolvedora Full Stack Júnior apaixonada por criar soluções digitais q
 ---
 
 ### 🚀 Projetos em destaque:
+* ☕ **[Bean Scene Coffee Shop](https://github.com/LucianaBritoDev/WS_FS_ABR25_D01_COMPASS_Coffee-Shop):** Site para uma cafeteria fictícia, com cardápio, filtros e opções para pedidos online.
+  * **Diferencial técnico:** interface responsiva e interativa desenvolvida com HTML, CSS e JavaScript, incluindo carrossel de imagens e atenção à experiência do usuário.
+    
 * 🤖 **[OpenCode](https://github.com/LucianaBritoDev/opencode):** Aplicação desenvolvida como projeto de estudo em Inteligência Artificial, explorando interações inteligentes, automação e desenvolvimento de soluções com IA.
   * **Diferencial técnico:** estudo da integração entre interface de usuário e processamento de prompts, com foco em usabilidade, organização da aplicação e experiência do usuário.
 
 * 💬 **[Chatbot](https://github.com/LucianaBritoDev/chatbot):** Projeto de estudo voltado para conversação e respostas automatizadas em ambiente web, explorando conceitos de IA conversacional e interação com usuários.
   * **Diferencial técnico:** desenvolvimento de uma experiência conversacional responsiva com foco em interação, acessibilidade e aplicação prática de conceitos de IA conversacional.
-
-* ☕ **[Bean Scene Coffee Shop](https://github.com/LucianaBritoDev/WS_FS_ABR25_D01_COMPASS_Coffee-Shop):** Site para uma cafeteria fictícia, com cardápio, filtros e opções para pedidos online.
-  * **Diferencial técnico:** interface responsiva e interativa desenvolvida com HTML, CSS e JavaScript, incluindo carrossel de imagens e atenção à experiência do usuário.
 
 * 🧠 **[Prompt ao Produto](https://github.com/LucianaBritoDev/prompt-ao-produto):** Classificador de mensagens desenvolvido em Python com integração ao Google Gemini.
   * **Diferencial técnico:** uso de inteligência artificial generativa para analisar e classificar mensagens.
